@@ -5,5 +5,6 @@ terraform {
     key            = 
     region         = 
     profile        = 
+    dynamodb_table = ""
   }
 }
